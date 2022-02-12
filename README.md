@@ -1,3 +1,6 @@
+# FT_PRINTF
+![](https://img.shields.io/badge/Language-C-blue)
+![](https://img.shields.io/badge/School-42-black)
 This project consists of coding a library that contains a simplified version 
  of the printf function.
 ft_printf writes the C string pointed by format to the standard output (stdout). If format includes format specifiers (subsequences beginning with %), the additional arguments following format are formatted and inserted in the resulting string replacing their respective specifiers.
